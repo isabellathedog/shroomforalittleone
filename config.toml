@@ -1,0 +1,57 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Shroom for a little one"
+  subtitle    = "Sharing our food experiences from London and beyond"
+  summaryLength = 40
+
+  cover       = "img/london.jpg"
+  description = "A restaurant review and recipe site, for people looking to eat in London and cook exciting food at home."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = ""
+  fbName = ""
+  githubName = ""
+
+  logo = "img/shrooms.png"
+  orgName = "Shroomforalittleone"
+  orgWebsite = "https://www.shroomforalittleone.com"
+  orgDescription = "Polly & Ed"
+
+  author = "Polly"
+  authorAvatar = "img/pollysmall.jpg"
+  authorLocation = "London, ENG"
+  authorWebsite = ""
+  authorDescription = "Dog and food loving lady"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Reviews"
+  url = "/categories/reviews/"
+  weight = 99
+
+[[menu.main]]
+  name = "Recipes"
+  url = "/categories/recipes/"
+  weight = 97
+
