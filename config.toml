@@ -1,7 +1,7 @@
 baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
-disqusShortname = ""
+disqusShortname = "shroomforalittleone"
 paginate        = 6
 #SectionPagesMenu = "main"
 
@@ -14,7 +14,7 @@ paginate        = 6
   description = "A restaurant review and recipe site, for people looking to eat in London and cook exciting food at home."
   metaDescription = ""
   googleAnalytics = ""
-  customCSS = []
+  customCSS = ["css/override.css"]
   RSSLink = ""
 
   twitterName = ""
