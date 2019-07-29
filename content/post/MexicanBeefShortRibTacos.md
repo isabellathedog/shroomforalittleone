@@ -2,7 +2,7 @@
 title: "Mexican Beef Short Rib for Tacos, Chilli and Life"
 date: 2019-07-28T19:03:11+01:00
 draft: false
-image: "img/MexicanBeefShortRibTacos/stew.jpg"
+image: "img/MexicanBeefShortRibTacos/complete.jpg"
 tags: ["recipe", "mexican", "beef", "hearty", "slowroast", "tacos"]
 categories: ["recipes"]
 ---
