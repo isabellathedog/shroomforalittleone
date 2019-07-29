@@ -60,3 +60,5 @@ After another wait our bill finally arrives and comes in at £71 for the two of 
 Overall our excitement might have got the better of us, an experience potentially derailed by numerous conversations about how excited we were to go. The food was good, and certainly worth a visit if you’re around Camden or Euston but left us both feeling like maybe we prefer the slightly trashier American take on Mexican. 
 
 Shroom score 7 / 10
+
+![Molcajete Mestizo animation](/img/Mestizo/animated.gif)
