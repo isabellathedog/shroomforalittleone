@@ -1,5 +1,5 @@
 ---
-title: "Mestizo"
+title: "Mestizo Review"
 date: 2019-07-22T09:00:43+01:00
 draft: false
 image: "img/Mestizo/stew.jpg"
@@ -11,9 +11,9 @@ score: 7
 
 Authentic, tasty Mexican food provided a delicious lunch but perhaps lacks the pizazz of Californian Baja that gave life to our love affair with Mexican nosh.
 
-**Shroom score: 7 / 10**
-
 <!--more--> 
+
+**Shroom score: 7 / 10**
 
 *Mestizo Mexican Restaurant - 103 Hampstead Rd, Kings Cross, London NW1 3EL*
 
